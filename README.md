@@ -20,7 +20,7 @@
 - [LLM Chatbot REST App](https://github.com/chinmayajoshi/LLM-Chatbot-REST-App)
 - [Sentiment Analysis using Pretrained Quantized LLM](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/tree/main/projects/sentiment%20analysis)
 
-  ### 👾 LLM Red Team
+### 👾 LLM Red Team
 - [Data Poisoning Attack on LLM RAG](https://github.com/chinmayajoshi/Data-Poisoning-Attack-on-LLM-RAG)
 - [Automated LLM Vulnerability Reports with Nvidia Garak](https://github.com/chinmayajoshi/LLM-Red-Teaming-with-Garak) 
 - [News Summarization Bot: Automated Red Team Scan using Giskard](https://github.com/chinmayajoshi/LLM-Red-Team-News-Summarization)
