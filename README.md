@@ -16,8 +16,8 @@
 ## 🧑‍💻 Projects & Repos
 
 ### 🤖 Large Language Models (LLMs)
+- [Chess Tutor Bot with Stockfish Integration](https://github.com/chinmayajoshi/Chess-Tutor-Bot)
 - [Hybrid Agentic RAG for Regulatory Decision Making](https://github.com/OmdenaAI/SriLankaChapter_RegulatoryDecisionMaking)  (@Omdena SL Chapter)
-- [LLM Chatbot REST App](https://github.com/chinmayajoshi/LLM-Chatbot-REST-App)
 - [Sentiment Analysis using Pretrained Quantized LLM](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/tree/main/projects/sentiment%20analysis)
 
 ### 👾 LLM Red Team
