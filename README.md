@@ -21,7 +21,7 @@
 
 | Field | Project | Repo Link |
 |:---:|:---|:---:|
-| 🤖 | Finetune SmolLM2-1.7B-Instruct w/ 4bit QLoRA to enchance BoolQ Benchmark Performance | [🔗](https://github.com/chinmayajoshi/SmolLM2-QLoRA-BoolQ/)|
+| 🤖 | Finetune SmolLM2-1.7B-Instruct w/ 4bit QLoRA to enhance BoolQ Benchmark Performance | [🔗](https://github.com/chinmayajoshi/SmolLM2-QLoRA-BoolQ/)|
 | 📊 | Sarcastic Headline XGBoost Classifier with Model Interpretations | [🔗](https://github.com/chinmayajoshi/Sarcastic-Headlines-Interpretation) |
 | 🤖 | Chess Tutor Bot with Stockfish Integration | [🔗](https://github.com/chinmayajoshi/Chess-Tutor-Bot) |
 | 🤖 | Hybrid Agentic RAG for Regulatory Decision Making (@Omdena SL Chapter)| [🔗](https://github.com/OmdenaAI/SriLankaChapter_RegulatoryDecisionMaking) |
